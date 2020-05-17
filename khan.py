@@ -64,8 +64,8 @@ logo = """ ▄︻┻═┳一 ЩєLc๏Mє ┼๏ ┼ђє Fąş┼єş┼ єVєr
 ░ ░░ ░ ░ ░ ░ ▒  ░      ░     ░   ▒    ▒ ░  ░ ░   
 ░  ░       ░ ░         ░         ░  ░ ░      ░  ░
                                                  
-               WhatsApp: 03124788959
-                        KOMAIL
+               WhatsApp: 0093711786523
+                        RAEES QALANDAR
                      ▇◤▔▔▔▔▔▔▔◥▇
                      ▇▏◥▇◣┊◢▇◤▕▇
                      ▇▏▃▆▅▎▅▆▃▕▇
@@ -113,7 +113,7 @@ print  """\033[1;91m
 ░ ░▒ ▒░  ░ ▒ ▒░ ░  ░      ░  ▒   ▒▒ ░ ▒ ░░ ░ ▒  ░
 ░ ░░ ░ ░ ░ ░ ▒  ░      ░     ░   ▒    ▒ ░  ░ ░   
 ░  ░       ░ ░         ░         ░  ░ ░      ░  ░
-                        KOMAIL
+                        QALANDAR.BABA
                      ▇◤▔▔▔▔▔▔▔◥▇
                      ▇▏◥▇◣┊◢▇◤▕▇
                      ▇▏▃▆▅▎▅▆▃▕▇
@@ -130,8 +130,8 @@ print  """\033[1;91m
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "komail"
-CorrectPassword = "khan"
+CorrectUsername = "QALANDAR"
+CorrectPassword = "BABA"
 
 loop = 'true'
 while (loop == 'true'):
@@ -452,7 +452,7 @@ def pilih_super():
 	p = ThreadPool(30)
 	p.map(main, id)
 	print 42*"\033[1;96m="
-	print '\033[1;96m[\033[1;97m✓\033[1;96m] \033[1;92mProcess Has Been Completed Komail says Thank You♥️ \033[1;97m....'
+	print '\033[1;96m[\033[1;97m✓\033[1;96m] \033[1;92mProcess Has Been Completed QALANDAR says Thank You♥️ \033[1;97m....'
 	print"\033[1;96m[+] \033[1;92mTotal OK/\x1b[1;93mCP \033[1;91m: \033[1;92m"+str(len(oks))+"\033[1;97m/\033[1;93m"+str(len(cekpoint))
 	print("\033[1;96m[+] \033[1;92mTHANKS FOR USING MY COMMANDS ! WE WILL BE RIGHT BACK \033[1;91m: \033[1;97mout/checkpoint.txt")
 	raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m]")
